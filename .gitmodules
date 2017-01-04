@@ -1,0 +1,6 @@
+[submodule "haxelib/react"]
+	path = haxelib/react
+	url = https://github.com/massiveinteractive/haxe-react
+[submodule "haxelib/react_native"]
+	path = haxelib/react_native
+	url = https://github.com/haxe-react/hxjs-react-native
