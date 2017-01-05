@@ -3,4 +3,4 @@
 -dce full
 
 -lib react
--lib react_native
+-lib react-native

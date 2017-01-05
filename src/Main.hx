@@ -23,7 +23,7 @@ class Main {
 	});
 	
 	public static function main() {
-		AppRegistry.registerComponent('bin', function() return App);
+		AppRegistry.registerComponent('Haxe', function() return App);
 	}
 }
 

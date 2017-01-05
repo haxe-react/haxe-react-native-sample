@@ -1,4 +1,4 @@
-package com.bin;
+package com.haxe;
 
 import android.app.Application;
 import android.util.Log;
