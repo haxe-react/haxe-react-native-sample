@@ -23,10 +23,11 @@ class Main {
 	});
 	
 	public static function main() {
-		AppRegistry.registerComponent('Haxe', function() return App);
+		// AppRegistry.registerComponent('Haxe', function() return App);
 	}
 }
 
+@:expose('App')
 class App extends ReactComponent {
 	static var styles = Main.styles;
 	

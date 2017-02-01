@@ -1,4 +1,4 @@
 common.hxml
 
--js bin/index.android.js
+-js bin/generated/android/main.js
 -D android
