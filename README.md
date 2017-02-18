@@ -2,6 +2,8 @@
 
 Barebone sample for building a React Native project from Haxe.
 
+Required Haxe version: 3.3.0-rc1 or later.
+
 ## Usage
 
 ```bash
